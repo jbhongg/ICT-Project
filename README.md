@@ -1,6 +1,8 @@
 # ICT-Project
 설비의 데이터를 수집하여 실시간 데이터 시각화 및 시간에 따라 수집된 데이터 확인, 날짜별 데이터 검색, 데이터 예측, 데이터별 상관관계,  안정도 측정 기능을 제공해주는 플랫폼입니다.
 
+#### 시연 동영상 : https://drive.google.com/file/d/1vkH5KjoRUCWQ7OF4NK2bs2wHbRU-Ol6Y/view?usp=sharing
+
 <br>
 
 ![슬라이드4](https://user-images.githubusercontent.com/43925006/155852764-bd8de9ed-1c87-4b67-a73c-93624b0ebf15.JPG)
